@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💼 QA Experience: For 5 years as a QA Engineer, I ensure the quality and reliability of software products and services.
+👩‍💼 QA Experience: For 5 years as a QA Engineer, I have been ensuring the quality and reliability of software products and services.
 
 🕹️ Expertise in Manual Testing: I demonstrate excellence in manual testing, prioritizing UI and backend to ensure optimal user experiences and reliability.
 
